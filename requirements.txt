@@ -1,0 +1,2 @@
+-e git+git@github.com:evgeny-garusov-qa/verbose-octo-memory.git@3a7602ea7b2035ff9b1861261d976b315e85bfcc#egg=dummy
+pkg-resources==0.0.0
